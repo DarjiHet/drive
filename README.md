@@ -27,3 +27,7 @@ A secure file upload system built with Node.js, Express, EJS, MongoDB, JWT authe
 - TailwindCSS + Flowbite (UI)
 
 ---
+
+
+<img src="./img/Screenshot(11).png" alt="Project Screenshot" width="100%" />
+

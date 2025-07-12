@@ -29,5 +29,5 @@ A secure file upload system built with Node.js, Express, EJS, MongoDB, JWT authe
 ---
 
 
-<img src="./img/Screenshot (11).png.png" alt="Project Screenshot" width="100%" />
+<img src="./img/img1.png" alt="Project Screenshot" width="100%" />
 
